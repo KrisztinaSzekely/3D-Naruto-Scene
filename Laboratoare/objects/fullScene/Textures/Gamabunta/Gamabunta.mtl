@@ -1,0 +1,52 @@
+# Blender MTL File: 'gamad.blend'
+# Material Count: 4
+
+newmtl C__Users_Loris_Desktop_Gamakich
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.164360 0.164360 0.164360
+Ke 0.230000 0.230000 0.230000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gama.png
+map_Ke gama.png
+map_Ks gama.png
+
+newmtl C__Users_Loris_Desktop_Gamakich_gama.png
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.164360 0.164360 0.164360
+Ke 0.230000 0.230000 0.230000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gama.png
+map_Ke gama.png
+map_Ks gama.png
+
+newmtl C__Users_Loris_Desktop_Gamakich_ntxr001.png.001
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.164360 0.164360 0.164360
+Ke 0.230000 0.230000 0.230000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gama.png
+map_Ke gama.png
+map_Ks gama.png
+
+newmtl tr
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.299308 0.299308 0.299308
+Ke 0.176000 0.176000 0.176000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd gama2.png

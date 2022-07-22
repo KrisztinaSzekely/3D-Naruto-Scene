@@ -1,0 +1,39 @@
+newmtl Model001_Material001
+map_Kd T_Chr0160_eyeeff_C.png
+
+newmtl Model001_Material002
+map_Kd T_Chr0160_eyeL_C.png
+
+newmtl Model001_Material003
+map_Kd T_Chr0160_upperbody_C.png
+
+newmtl Model001_Material004
+map_Kd T_Chr0160_damage_head_C.png
+
+newmtl Model001_Material005
+map_Kd T_Chr0160_upperbody_C.png
+
+newmtl Model001_Material006
+map_Kd T_Chr0160_weapon_C.png
+
+newmtl Model001_Material007
+map_Kd T_Chr0160_weapon_C.png
+
+newmtl Model001_Material008
+map_Kd T_Chr0160_footwear_C.png
+
+newmtl Model001_Material009
+map_Kd T_Chr0160_lowerbody_C.png
+
+newmtl Model001_Material010
+map_Kd T_Chr0160_damage_head_C.png
+
+newmtl Model001_Material011
+map_Kd T_Chr0160_damage_head_C.png
+
+newmtl Model001_Material012
+map_Kd T_Chr0160_hair_C.png
+
+newmtl Model001_Material013
+map_Kd T_Chr0160_hair_C.png
+
